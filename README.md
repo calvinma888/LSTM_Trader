@@ -1,4 +1,4 @@
-# LSTM-trader
+# Using LSTM to Create a Stock Trader
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
