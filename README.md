@@ -65,7 +65,7 @@ This is a list of packages that need to be installed before the notebook can be 
 
 ### Installation
 
-Clone the repo: https://github.com/calvinma888/Blockchain_Forex_Arbitrage.git
+Clone the repo: https://github.com/calvinma888/LSTM_trader.git
    
 
 <!-- USAGE EXAMPLES -->
