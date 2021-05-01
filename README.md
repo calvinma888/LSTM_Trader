@@ -1,7 +1,7 @@
 # LSTM-trader
 1. Selected stocks from different industries/sectors
-2. Cleaned the data by removing any NaN values
-3. Added technical features to the intraday
+2. Cleaned the data by removing any NaN values and aligning the dates of the monthly data, and adding the stock header
+3. Added technical features to the intraday data
 4. Found which technical indicators have a high correlation with the
 stock price and remove the rest
 5. Trained the LSTM model with the selected features and predict prices
